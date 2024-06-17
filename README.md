@@ -8,4 +8,4 @@
 <br>
 <a href="https://www.instagram.com/coutinho.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
 <br>
-<img src="c:\Users\Danih\OneDrive\Desktop\api.svg" alt="">
+<img src="https://github-readme-stats.vercel.app/api?username=danielhcoutinho&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt=""> 
